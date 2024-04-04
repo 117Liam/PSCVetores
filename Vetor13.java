@@ -20,7 +20,6 @@ public class Vetor13 {
         }
     }
 
-    // Função para verificar se um número é primo
     public static boolean ehPrimo(int numero) {
         if (numero <= 1) {
             return false;
